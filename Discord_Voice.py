@@ -7,7 +7,7 @@ import shutil
 from os import system
 
 
-TOKEN = 'NzE0NjY0MTkzNDIwMjk2MTky.Xsx9jw.Pk_IAA0fpPV6P5Q7NxmGB4NjShA'
+TOKEN = 
 BOT_PREFIX = '/'
 
 bot = commands.Bot(command_prefix=BOT_PREFIX)
